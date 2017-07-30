@@ -7,4 +7,4 @@ result = firebase.put('','/Coles/',items)
 result2 = firebase.put('','/Woolworths/',items)
 result3 = firebase.put('','/Aldi/',items)
 
-print("Done")
+print("Executed")
